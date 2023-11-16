@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, somos Adoon Group</h1>
-<h3 align="center">Esta es la cuenta de nuestra empresa, donde compartimos y aprendemos más sobre lo más nos gusta, Bienvenidos!</h3>
+<h3 align="center">Esta es la cuenta de nuestra empresa, donde compartimos y aprendemos más sobre lo que más nos gusta, Bienvenidos!</h3>
 
 - 🌱 Actualmente desarrollando conocimientos en **Python, Jason, Flutter, Firebase y IA**
 
