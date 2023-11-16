@@ -17,7 +17,6 @@
 
 <h3 align="center">Buscanos en redes:</h3>
 <p align="center">
-<a href="https://dev.to/byrbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="byrbox" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/company/addongroup/?viewasmember=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/addongroup/?viewasmember=true" height="30" width="40" /></a>
 <a href="https://fb.com/addon group" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="addon group" height="30" width="40" /></a>
 <a href="https://instagram.com/@addongroup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@addongroup" height="30" width="40" /></a>
