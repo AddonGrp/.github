@@ -15,7 +15,7 @@
 
 - 📄 ¿Quienes Somos? [https://addongroup.net/nosotros/](https://addongroup.net/nosotros/)
 
-<h3 align="center">Buscanes en redes:</h3>
+<h3 align="center">Buscanos en redes:</h3>
 <p align="center">
 <a href="https://dev.to/byrbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="byrbox" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/company/addongroup/?viewasmember=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/addongroup/?viewasmember=true" height="30" width="40" /></a>
