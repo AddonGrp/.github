@@ -7,13 +7,13 @@
 
 - 👨‍💻 Nuestro portafolio de diseño: [https://www.behance.net/Addon_Group](https://www.behance.net/Addon_Group)
 
-- 📝 Mira nuestro blog donde hablamos de Business! [https://addongroup.net/news/](https://addongroup.net/news/)
+- 📝 Mira nuestro blog donde hablamos de Business! [https://addongroup.net/blog-list/)
 
 - 💬 Preguntanos sobre **Git Hub, Illustrator, Photoshop, Figma, Xd**
 
 - 📫 Escribenos a: **info@addongroup.net**
 
-- 📄 ¿Quienes Somos? [https://addongroup.net/nosotros/](https://addongroup.net/nosotros/)
+- 📄 ¿Quienes Somos? [https://addongroup.net/nosotros/](https://addongroup.net)
 
 <h3 align="center">Buscanos en redes:</h3>
 <p align="center">
